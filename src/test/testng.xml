@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Speechify Android Tests" verbose="1" configfailurepolicy="continue" preserve-order="true">
+    <test name="Tests">
+        <classes>
+            <class name ="OnboardingTests"/>
+            <class name ="SignUpTests"/>
+            <class name ="SignInTests"/>
+        </classes>
+    </test>
+</suite>

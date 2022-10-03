@@ -1,0 +1,15 @@
+{"Onboarding_WelcomeToSpeechify":"Reading is hard. Listening is easy.With the Speechify app, you can save hours of time, boost your productivity, improve your comprehension, and remember more of what you're reading.",
+  "WhatIsYourFirstName":"What is your first name?",
+  "WhatIsMostOfYourReadingFor": "Hey John Wick, what is most of your reading for?",
+  "WhatDoYouWantSpeechifyToHelp": "What do you want Speechify to help you do, John Wick?",
+  "WhatDoYouReadMostOften": "John Wick, what do you read most often?",
+  "ReadingSuperpowers": "Reading Superpowers",
+  "TryPremiumForFree": "Try Premium for free",
+  "AGiftForYou": "A gift for you",
+  "defaultPassword": "testing12345",
+  "invalidPassword": "invalid@12345",
+  "existingUser1": "prod_test156@test.com",
+  "invalidUser1": "prod_test",
+  "newUser1": "autoProd",
+  "newGoogleUser1": "autoProd1@gmail.com"
+}
